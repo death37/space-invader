@@ -4,12 +4,6 @@ body {
 
 }
 
-[class*="col-"], footer {
-  background-color: lightgreen;
-  height: 60px;
-
-}
-
 .row div{
             height: 100%;
             background-color: #9ACD32;
