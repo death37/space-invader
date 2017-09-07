@@ -6,7 +6,7 @@ body {
 
 .row div{
             height: 100%;
-            background-color: #9ACD32;
+            background-color: lightgreen;
         }
 
         @media (max-width: 480px) {
